@@ -1,4 +1,0 @@
-{
-    "logFormat": "CSV",
-    "logFilePath": "resources/logs/application_log.csv"
-  }
